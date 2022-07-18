@@ -5,3 +5,5 @@ Bert Bates and Kathy Sierra's wonderful book; The exercises and some code, along
 ### Breaking the surface
 
 ...
+
+## Chapter 2
